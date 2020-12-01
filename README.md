@@ -14,3 +14,4 @@
 | 10 | Blog | 老司机技术周报 | https://github.com/SwiftOldDriver |  |
 | 11 | UI | SwiftUI | https://github.com/Jinxiansen/SwiftUI |  |
 | 12 | Player | ijkplayer | https://github.com/bilibili/ijkplayer |  |
+| 13 | Player | 七牛 | https://github.com/pili-engineering/PLPlayerKit |  |
