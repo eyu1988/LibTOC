@@ -16,3 +16,4 @@
 | 12 | Player | ijkplayer | https://github.com/bilibili/ijkplayer |  |
 | 13 | Player | 七牛 | https://github.com/pili-engineering/PLPlayerKit |  |
 | 14 | Animation | 动画框架 | https://github.com/ameizi/awesome-ios-animation |  |
+| 15 | Javascript bridge | DSBridge | https://github.com/wendux/DSBridge-IOS |  |
