@@ -18,4 +18,6 @@
 | 14 | Animation | 动画框架 | https://github.com/ameizi/awesome-ios-animation |  |
 | 15 | Javascript bridge | DSBridge | https://github.com/wendux/DSBridge-IOS |  |
 | 16 | 架构模式 | ZIKViper | https://github.com/Zuikyo/ZIKViper |  |
+| 17 | Flutter插件 | flutter boost | https://github.com/alibaba/flutter_boost |  |
+
 
