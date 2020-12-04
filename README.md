@@ -30,3 +30,4 @@
 | 3 | Cell翻转 | CCFoldCell | https://github.com/bref-Chan/CCFoldCell |  |
 | 4 | 页面动画 | BouncyPageViewController | https://github.com/BohdanOrlov/BouncyPageViewController |  |
 | 5 | Menu动画 | Persei | https://github.com/Yalantis/Persei |  |
+| 6 | 关键帧动画 | JazzHands | https://github.com/IFTTT/JazzHands |  |
