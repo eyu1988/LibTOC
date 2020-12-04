@@ -21,3 +21,9 @@
 | 17 | Flutter插件 | flutter boost | https://github.com/alibaba/flutter_boost |  |
 
 
+### ANIMATION
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 喜欢选择 | Koloda | https://github.com/Yalantis/Koloda |  |
+| 2 | cell翻转 | folding-cell | https://github.com/Ramotion/folding-cell |  |
