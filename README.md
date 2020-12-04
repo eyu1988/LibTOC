@@ -26,4 +26,7 @@
 | No. | 分类 | 名称 | 地址 | 备注 |
 | --- | --- | --- | --- | --- |
 | 1 | 喜欢选择 | Koloda | https://github.com/Yalantis/Koloda |  |
-| 2 | cell翻转 | folding-cell | https://github.com/Ramotion/folding-cell |  |
+| 2 | Cell翻转 | folding-cell | https://github.com/Ramotion/folding-cell |  |
+| 3 | Cell翻转 | CCFoldCell | https://github.com/bref-Chan/CCFoldCell |  |
+| 4 | 页面动画 | BouncyPageViewController | https://github.com/BohdanOrlov/BouncyPageViewController |  |
+| 5 | Menu动画 | Persei | https://github.com/Yalantis/Persei |  |
