@@ -1,5 +1,7 @@
 # LibTOC
 
+[TOC]
+
 ### REVERSE
 
 | No. | 分类 | 名称 | 地址 | 备注 |
