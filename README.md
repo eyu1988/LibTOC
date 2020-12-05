@@ -1,7 +1,5 @@
 # LibTOC
 
-[TOC]
-
 ### REVERSE
 
 | No. | 分类 | 名称 | 地址 | 备注 |
@@ -66,5 +64,10 @@
 | --- | --- | --- | --- | --- |
 | 1 | Flutter插件 | flutter boost | https://github.com/alibaba/flutter_boost |  |
 
+### TRI_PLAT
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |
 
 
