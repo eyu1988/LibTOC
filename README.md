@@ -32,3 +32,10 @@
 | 4 | 页面动画 | BouncyPageViewController | https://github.com/BohdanOrlov/BouncyPageViewController |  |
 | 5 | Menu动画 | Persei | https://github.com/Yalantis/Persei |  |
 | 6 | 关键帧动画 | JazzHands | https://github.com/IFTTT/JazzHands |  |
+
+### SwiftUI
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | UI学习 | SwiftUI | https://github.com/Jinxiansen/SwiftUI |  |
+
