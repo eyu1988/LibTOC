@@ -33,6 +33,8 @@
 | 3 | HTML富文本 | DTCoreText | https://github.com/Cocoanetics/DTCoreText |  | 
 | 4 | 马甲包 | LFSpamCodeGenerator | https://github.com/fenglee594/LFSpamCodeGenerator | 垃圾代码生成器 |
 | 5 | 分析工具 | Drafter | https://github.com/L-Zephyr/Drafter | OC自动解析生成UML |
+| 5 | 依赖注入 | objection | https://github.com/atomicobject/objection |  |
+
 
 ### BLOG
 
