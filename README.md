@@ -67,6 +67,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | Flutter插件 | flutter boost | https://github.com/alibaba/flutter_boost |  |
 | 2 | RN | RNStudyNotes | https://github.com/crazycodeboy/RNStudyNotes |  |
+| 3 | Weex | Weex | https://github.com/alibaba/weex |  |
 
 ### TRI_PLAT
 
