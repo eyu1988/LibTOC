@@ -41,6 +41,7 @@
 | No. | 分类 | 名称 | 地址 | 备注 |
 | --- | --- | --- | --- | --- |
 | 1 | Blog | 老司机技术周报 | https://github.com/SwiftOldDriver |  |
+| 2 | Blog | 科技爱好者周刊 | https://github.com/ruanyf/weekly |  |
 
 ### ANIMATION
 
