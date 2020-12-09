@@ -62,6 +62,8 @@
 | 1 | UI学习 | SwiftUI | https://github.com/Jinxiansen/SwiftUI |  |
 | 2 | 网络 | Alamofire | https://github.com/Alamofire/Alamofire?utm_source=gold_browser_extension |  |
 | 3 | Toast | Toast-Swift | https://github.com/scalessec/Toast-Swift?utm_source=gold_browser_extension |  |
+| 4 | 图片加载 | Kingfisher | https://github.com/onevcat/Kingfisher?utm_source=gold_browser_extension |  |
+
 
 ### 跨平台
 
