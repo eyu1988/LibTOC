@@ -64,6 +64,7 @@
 | 3 | Toast | Toast-Swift | https://github.com/scalessec/Toast-Swift?utm_source=gold_browser_extension |  |
 | 4 | 图片加载 | Kingfisher | https://github.com/onevcat/Kingfisher?utm_source=gold_browser_extension |  |
 | 5 | Rx | RxSwift | https://github.com/ReactiveX/RxSwift?utm_source=gold_browser_extension |  |
+| 6 | UIChart | ChartView | https://github.com/AppPear/ChartView?utm_source=gold_browser_extension |  |
 
 
 ### 跨平台
