@@ -35,6 +35,11 @@
 | 5 | 分析工具 | Drafter | https://github.com/L-Zephyr/Drafter | OC自动解析生成UML |
 | 5 | 依赖注入 | objection | https://github.com/atomicobject/objection |  |
 
+### Design
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 架构设计 | PromiseKit | https://github.com/mxcl/PromiseKit |  |
 
 ### BLOG
 
