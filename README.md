@@ -60,6 +60,7 @@
 | 5 | Menu动画 | Persei | https://github.com/Yalantis/Persei |  |
 | 6 | 关键帧动画 | JazzHands | https://github.com/IFTTT/JazzHands |  |
 | 7 | Animation | 动画框架 | https://github.com/ameizi/awesome-ios-animation |  |
+| 8 | Animation | Video Animation Player | https://github.com/Tencent/vap |  |
 
 ### SWIFT
 
