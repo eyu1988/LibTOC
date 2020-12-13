@@ -35,6 +35,8 @@
 | 5 | 分析工具 | Drafter | https://github.com/L-Zephyr/Drafter | OC自动解析生成UML |
 | 5 | 依赖注入 | objection | https://github.com/atomicobject/objection |  |
 | 6 | 性能监查 | 小桔棱镜 | https://github.com/didi/DiDiPrism |  |
+| 6 | 崩溃监查 | KSCrash | https://github.com/kstenerud/KSCrash |  |
+
 
 ### Design
 
