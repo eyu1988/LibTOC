@@ -23,6 +23,8 @@
 | --- | --- | --- | --- | --- |
 | 1 | Player | ijkplayer | https://github.com/bilibili/ijkplayer |  |
 | 2 | Player | 七牛 | https://github.com/pili-engineering/PLPlayerKit |  |
+| 3 | Player | ZFPlayer | https://github.com/renzifeng/ZFPlayer |  |
+
 
 ### TOOL
 
