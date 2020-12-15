@@ -25,6 +25,11 @@
 | 2 | Player | 七牛 | https://github.com/pili-engineering/PLPlayerKit |  |
 | 3 | Player | ZFPlayer | https://github.com/renzifeng/ZFPlayer |  |
 
+### FRAMEWORK
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 网络库 | AFNetworking | https://github.com/AFNetworking/AFNetworking |  |
 
 ### TOOL
 
