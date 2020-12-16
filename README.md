@@ -91,7 +91,7 @@
 | 5 | Rx | RxSwift | https://github.com/ReactiveX/RxSwift?utm_source=gold_browser_extension |  |
 | 6 | UIChart | ChartView | https://github.com/AppPear/ChartView?utm_source=gold_browser_extension |  |
 | 7 | 自动布局 | SnapKit | https://github.com/SnapKit/SnapKit |  |
-
+| 8 | 图表 | Charts | https://github.com/danielgindi/Charts |  |
 
 ### 跨平台
 
