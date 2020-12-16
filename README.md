@@ -90,6 +90,7 @@
 | 4 | 图片加载 | Kingfisher | https://github.com/onevcat/Kingfisher?utm_source=gold_browser_extension |  |
 | 5 | Rx | RxSwift | https://github.com/ReactiveX/RxSwift?utm_source=gold_browser_extension |  |
 | 6 | UIChart | ChartView | https://github.com/AppPear/ChartView?utm_source=gold_browser_extension |  |
+| 7 | 自动布局 | SnapKit | https://github.com/SnapKit/SnapKit |  |
 
 
 ### 跨平台
