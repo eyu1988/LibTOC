@@ -50,6 +50,8 @@
 | 7 | 性能监查 | 小桔棱镜 | https://github.com/didi/DiDiPrism |  |
 | 8 | 崩溃监查 | KSCrash | https://github.com/kstenerud/KSCrash |  |
 | 9 | UI层级 | FLEX | https://github.com/FLEXTool/FLEX |  |
+| 9 | 键盘 | IQKeyboardManager | https://github.com/hackiftekhar/IQKeyboardManager |  |
+
 
 ### Design
 
