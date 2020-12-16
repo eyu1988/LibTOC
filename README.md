@@ -96,9 +96,10 @@
 
 | No. | 分类 | 名称 | 地址 | 备注 |
 | --- | --- | --- | --- | --- |
-| 1 | Flutter插件 | flutter boost | https://github.com/alibaba/flutter_boost |  |
-| 2 | RN | RNStudyNotes | https://github.com/crazycodeboy/RNStudyNotes |  |
-| 3 | Weex | Weex | https://github.com/alibaba/weex |  |
+| 1 | Flutter | flutter boost | https://github.com/alibaba/flutter_boost |  |
+| 2 | Flutter | flutter_thrio | https://github.com/hellobike/flutter_thrio |  |
+| 3 | RN | RNStudyNotes | https://github.com/crazycodeboy/RNStudyNotes |  |
+| 4 | Weex | Weex | https://github.com/alibaba/weex |  |
 
 ### TRI_PLAT
 
