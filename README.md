@@ -79,6 +79,7 @@
 | 6 | 关键帧动画 | JazzHands | https://github.com/IFTTT/JazzHands |  |
 | 7 | Animation | 动画框架 | https://github.com/ameizi/awesome-ios-animation |  |
 | 8 | Animation | Video Animation Player | https://github.com/Tencent/vap |  |
+| 9 | Animation | Lottie | https://github.com/airbnb/lottie-ios |  |
 
 ### SWIFT
 
