@@ -16,6 +16,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | 性能检测 | DoraemonKit | https://github.com/didi/DoraemonKit |  | 
 | 2 | 性能监控工具 | matrix | https://github.com/Tencent/matrix#matrix_ios_cn |  |
+| 3 | 性能监控工具 | awesome-ios | https://github.com/vsouza/awesome-ios |  |
 
 ### PLAYER
 
