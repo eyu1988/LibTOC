@@ -9,6 +9,7 @@
 | 3 | 逆向 | MonkeyDev | https://github.com/AloneMonkey/MonkeyDev | 三方注入动态库方法 |
 | 4 | 逆向 | bfinject | https://github.com/BishopFox/bfinject |  |
 | 5 | 逆向 | iOSAppHook | https://github.com/Urinx/iOSAppHook |  |
+| 6 | 逆向 | IPAPatch | https://github.com/Naituw/IPAPatch |  |
 
 ### PERFORMANCE
 
