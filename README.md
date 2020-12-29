@@ -40,6 +40,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | 日历 | FSCalendar | https://github.com/WenchaoD/FSCalendar |  |
 | 2 | 界面切换库 | Hero | https://github.com/HeroTransitions/Hero |  |
+| 3 | 分类切换滚动视图 | JXCategoryView | https://github.com/pujiaxin33/JXCategoryView |  |
 
 ### TOOL
 
