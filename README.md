@@ -128,6 +128,13 @@
 | --- | --- | --- | --- | --- |
 | 1 | 系统组件UI | QMUI_iOS | https://github.com/Tencent/QMUI_iOS?utm_source=gold_browser_extension |  |
 
+### MAC
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 终端 | iTerm2 | https://github.com/gnachman/iTerm2 |  |
+
+
 ### APPLE XCODE
 | No. | 分类 | 名称 | 地址 | 备注 |
 | --- | --- | --- | --- | --- |
