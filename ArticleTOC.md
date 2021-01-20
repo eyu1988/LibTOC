@@ -21,3 +21,11 @@
 | No. | 分类 | 名称 | 地址 | 备注 |
 | --- | --- | --- | --- | --- |
 | 1 | 包体瘦身 | 抖音品质建设 - iOS 安装包大小优化实践篇 | https://mp.weixin.qq.com/s/LSP8kC09zjb-sDjgZaikbg |  |
+
+
+### 编程思想
+
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 函数式编程 | 基本概念 | https://juejin.cn/post/6919349598566367240?utm_source=gold_browser_extension |  |
+
