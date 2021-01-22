@@ -21,6 +21,7 @@
 | No. | 分类 | 名称 | 地址 | 备注 |
 | --- | --- | --- | --- | --- |
 | 1 | 包体瘦身 | 抖音品质建设 - iOS 安装包大小优化实践篇 | https://mp.weixin.qq.com/s/LSP8kC09zjb-sDjgZaikbg |  |
+| 2 | 二进制库 | 为二进制库下断点 | https://juejin.cn/post/6918920777244868615?utm_source=gold_browser_extension |  |
 
 
 ### 编程思想
