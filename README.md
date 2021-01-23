@@ -42,6 +42,8 @@
 | 2 | 界面切换库 | Hero | https://github.com/HeroTransitions/Hero |  |
 | 3 | 分类切换滚动视图 | JXCategoryView | https://github.com/pujiaxin33/JXCategoryView |  |
 | 4 | 图片编辑器 | TOCropViewController | https://github.com/TimOliver/TOCropViewController |  |
+| 5 | HTML富文本 | DTCoreText | https://github.com/Cocoanetics/DTCoreText |  |
+
 
 ### TOOL
 
@@ -50,8 +52,8 @@
 | 1 | Javascript bridge | DSBridge | https://github.com/wendux/DSBridge-IOS |  |
 | 2 | 架构模式 | ZIKViper | https://github.com/Zuikyo/ZIKViper |  |
 | 3 | HTML富文本 | DTCoreText | https://github.com/Cocoanetics/DTCoreText |  | 
-| 4 | 马甲包 | LFSpamCodeGenerator | https://github.com/fenglee594/LFSpamCodeGenerator | 垃圾代码生成器 |
-| 5 | 分析工具 | Drafter | https://github.com/L-Zephyr/Drafter | OC自动解析生成UML |
+| 4 | 马甲包 | LFSpamCodeGenerator | https://github.com/fenglee594/LFSpamCodeGenerator | 垃圾代码生成器 |  | 
+| 5 | 分析工具 | Drafter | https://github.com/L-Zephyr/Drafter | OC自动解析生成UML |  | 
 | 6 | 依赖注入 | objection | https://github.com/atomicobject/objection |  |
 | 8 | 崩溃监查 | KSCrash | https://github.com/kstenerud/KSCrash |  |
 | 9 | UI层级 | FLEX | https://github.com/FLEXTool/FLEX |  |
