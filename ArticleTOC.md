@@ -24,7 +24,11 @@
 | 2 | 启动优化 | 抖音品质建设 - iOS启动优化 | https://juejin.cn/post/6921508850684133390?utm_source=gold_browser_extension |  |
 | 3 | 二进制库 | 为二进制库下断点 | https://juejin.cn/post/6918920777244868615?utm_source=gold_browser_extension |  |
 
+### 问题调试
 
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 问题调试 | 如何排查无法复现的系统内部Crash？ | https://juejin.cn/post/6916048281113985032 |  |
 
 
 ### 编程思想
