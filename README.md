@@ -60,6 +60,12 @@
 | 9 | 键盘 | IQKeyboardManager | https://github.com/hackiftekhar/IQKeyboardManager |  |
 
 
+### TEST
+| No. | 分类 | 名称 | 地址 | 备注 |
+| --- | --- | --- | --- | --- |
+| 1 | 测试 | Macaca | https://github.com/alibaba/macaca |  |
+
+
 ### Design
 
 | No. | 分类 | 名称 | 地址 | 备注 |
