@@ -132,10 +132,11 @@
 | --- | --- | --- | --- | --- |
 | 1 | Flutter | flutter boost | https://github.com/alibaba/flutter_boost |  |
 | 2 | Flutter | flutter_thrio | https://github.com/hellobike/flutter_thrio |  |
-| 3 | RN | RNStudyNotes | https://github.com/crazycodeboy/RNStudyNotes |  |
-| 4 | Weex | Weex | https://github.com/alibaba/weex |  |
-| 5 | ReactiveCocoa | ReactiveCocoa | https://github.com/ReactiveCocoa/ReactiveCocoa |  |
-| 6 | WebViewJavascriptBridge | JSBridge | https://github.com/marcuswestin/WebViewJavascriptBridge |  |
+| 3 | Flutter | mxflutter | https://github.com/mxflutter/mxflutter |  |
+| 4 | RN | RNStudyNotes | https://github.com/crazycodeboy/RNStudyNotes |  |
+| 5 | Weex | Weex | https://github.com/alibaba/weex |  |
+| 6 | ReactiveCocoa | ReactiveCocoa | https://github.com/ReactiveCocoa/ReactiveCocoa |  |
+| 7 | WebViewJavascriptBridge | JSBridge | https://github.com/marcuswestin/WebViewJavascriptBridge |  |
 
 ### TRI_PLAT
 
