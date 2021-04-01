@@ -43,6 +43,8 @@
 | 3 | 分类切换滚动视图 | JXCategoryView | https://github.com/pujiaxin33/JXCategoryView |  |
 | 4 | 图片编辑器 | TOCropViewController | https://github.com/TimOliver/TOCropViewController |  |
 | 5 | HTML富文本 | DTCoreText | https://github.com/Cocoanetics/DTCoreText |  |
+| 5 | 异步视图绘制 | Texture | https://github.com/texturegroup/texture |  |
+
 
 
 ### TOOL
