@@ -19,6 +19,8 @@
 | 2 | 性能监控工具 | matrix | https://github.com/Tencent/matrix#matrix_ios_cn |  |
 | 3 | 性能监控工具 | awesome-ios | https://github.com/vsouza/awesome-ios |  |
 | 4 | 性能监测 | 小桔棱镜 | https://github.com/didi/DiDiPrism |  |
+| 5 | BUG排查 | KillBug | https://github.com/Tliens/KillBug |  |
+
 
 ### PLAYER
 
