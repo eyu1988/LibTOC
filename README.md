@@ -45,7 +45,8 @@
 | 3 | 分类切换滚动视图 | JXCategoryView | https://github.com/pujiaxin33/JXCategoryView |  |
 | 4 | 图片编辑器 | TOCropViewController | https://github.com/TimOliver/TOCropViewController |  |
 | 5 | HTML富文本 | DTCoreText | https://github.com/Cocoanetics/DTCoreText |  |
-| 5 | 异步视图绘制 | Texture | https://github.com/texturegroup/texture |  |
+| 6 | 异步视图绘制 | Texture | https://github.com/texturegroup/texture |  |
+| 7 | 计时器 | ZJJTimeCountDown | https://github.com/04zhujunjie/ZJJTimeCountDown?utm_source=gold_browser_extension |  |
 
 ### TOOL
 
